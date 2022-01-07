@@ -84,8 +84,8 @@ var specialChar = [
       guaranteedChar.push(getRandom(upperChar));
     }
     for (var i = 0; i < options.length; i++) {
-      var possibleChar = getRandom(possibleChar);
-      result.push(possibleChar);
+      var possibleChars = getRandom(possibleChar);
+      result.push(possibleChars);
     }
     for (var i = 0; i < guaranteedChar.length; i++) {
       result[i] = guaranteedChar[i];
