@@ -1,3 +1,3 @@
 # password-generator
 
-![Alt text](https://i.imgur.com/Hco6tGZ.png)
+![Alt text](https://i.ibb.co/XCx3NDJ/pass.png)
